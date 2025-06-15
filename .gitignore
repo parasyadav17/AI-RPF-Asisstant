@@ -1,0 +1,76 @@
+
+data/
+
+
+# Python general
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# FastAPI-related
+*.db
+instance/
+*.sqlite3
+
+# Pydantic compiled files
+*.pydantic.json
+
+# dotenv environment files
+.env
+.env.*
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Uvicorn logs or temp files
+*.pid
+*.log
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Docker (if using)
+*.tar
+*.img
+docker-compose.override.yml
