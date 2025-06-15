@@ -22,7 +22,7 @@ Chatbot for interactive RFP Q&A using local embeddings (RAG)
 
 🛠️ Installation
 1. Clone the Repository
-git clone https://github.com/Aarya1931/RFP_Pilot.git
+git clone https://github.com/parasyadav17/AI-RPF-Asisstant.git
 cd RFP_Pilot
 2. Set Up Environment
 pip install -r requirements.txt
