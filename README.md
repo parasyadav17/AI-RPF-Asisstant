@@ -23,7 +23,7 @@ Chatbot for interactive RFP Q&A using local embeddings (RAG)
 🛠️ Installation
 1. Clone the Repository
 git clone https://github.com/parasyadav17/AI-RPF-Asisstant.git
-cd RFP_Pilot
+cd AI-RPF-Asisstant
 2. Set Up Environment
 pip install -r requirements.txt
 Ensure you have Ollama installed and running locally with required models.
