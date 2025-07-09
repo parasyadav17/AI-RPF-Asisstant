@@ -33,8 +33,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Aarya1931/RFP_Pilot.git
-cd RFP_Pilot
+git clone https://github.com/parasyadav17/AI-RPF-Asisstant.git
+cd AI-RPF-Asisstant
 2. Set Up Environment
 pip install -r requirements.txt
 Ensure you have Ollama installed and running locally with required models.
